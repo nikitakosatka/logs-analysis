@@ -1,6 +1,6 @@
 # logs-analysis
 
-## NASA loga analysis
+## NASA logs analysis
 
 A program has been developed that analyzes server logs according to this template
 ```$remote_addr - - [$local_time] “$request” $status $bytes_send```.
